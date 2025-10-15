@@ -1,0 +1,13 @@
+name: NextChat
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/8d9a1857-d6f5-430a-9de2-6765187847d7
+description: '✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
